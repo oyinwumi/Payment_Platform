@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+    height: 100%;
+    background-color: #2196F3;
+    font-family: 'Roboto' ,'sans-serif';
+}
+.container {
+    width: 23rem !important;
+    /* height: 44em!important; */
+    margin: 1.25rem auto !important;
+    padding: 15px;
+    background-color: #ffff;
+   border-radius: 3px;
+}
+.header{
+    font-size: 25px !important;
+    font-weight: 700;
+    color: #1a237e ;
+}
+.header2{
+    font-size: 20px !important;
+    font-weight: 500;
+    color: #1a237e ;
+    margin-bottom: 20px;
+}
+.header-section p{
+    text-decoration: underline;
+    margin-bottom:  10px;
+    margin-top: 20px;
+}
+ol {
+    margin-top: 10px;   
+}
+li{
+    list-style-position: inside;
+    margin-bottom: 15px;
+    text-align: justify;
+    margin-left: 15px;
+    font-size: 16px;
+}
+.btn{
+    margin-top: 20px !important;  
+    width:90%; 
+    background-color: #2196f3 !important;
+    font-size: 12px !important;
+   font-weight: 700 !important;
+    color: #ffff !important;
+  
+}
+
+.btn:hover{
+    background-color: rgb(47, 47, 75) !important;
+    color: #ffff;
+}
+.button-section{
+    margin-top: 20px;
+ justify-content: center;
+}
+
+.material-icons {
+    margin-top: 8px !important;
+}
+
+/* styling for contractor.html */
+.container2 {
+width: 50rem;
+ /* height: 42rem!important; */
+margin: 2rem auto !important;
+justify-content: center;
+/* border: 1px solid red !important; */
+background-color: #ffff ;
+padding: 15px;
+}
+
+.select{
+    color: #e0e0e0 !important;
+}
+
+input{
+margin-top: 20px !important;
+}
+
+#btn2{
+ width: 90% !important;
+    text-align: center !important;
+    margin-top: 20px;
+    margin-left: 30px;
+    color: #ffff;
+}
+
+.container3{
+    width: 50rem;
+    /* height: 48rem!important; */
+   margin: 2rem auto !important;
+   justify-content: center;
+   border: 1px solid red !important;
+   background-color: #ffff ;
+   padding: 15px;
+}
+
+/* span{
+     border-left: 3px solid #104E8B;
+    height: 1px !important; 
+   padding: 5px;
+   line-height: 10px !important; 
+  
+} */
+
+.browser-default{
+    width: 90%;
+    margin-left: 2.4rem !important;
+    align-items: center !important;
+    margin-bottom: 3rem;
+    outline: 1px solid rgb(230, 230, 230) !important;
+    color: rgb(180, 180, 180) !important;
+}
+.select {
+    margin-top: 3rem;
+}
+.container4{
+    width: 23rem !important;
+    height: 24rem !important;
+    margin:  10rem  auto !important;
+    padding: 25px;
+    background-color: #ffff;
+   border-radius: 3px;
+}
+ #btn3{
+ margin-bottom: 2rem !important;
+  
+}
+.logo4{
+    width: 13rem !important;
+    margin-left: 30px;
+   
+}
+.header11{
+    font-size: 22px !important;
+    font-weight: 700;
+    color: #1a237e ;
+    margin-bottom: 20px;
+}
+.header22{
+    font-size: 18px !important;  
+    font-weight: 500;
+    color: #1a237e ;
+    margin-bottom: 20px;
+}
+ input .print{
+    margin-bottom: 20px !important;
+}
